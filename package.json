@@ -1,0 +1,24 @@
+{
+  "name": "hello-express",
+  "version": "1.0.0",
+  "description": "trying Express ",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thoriqnf/hello-express.git"
+  },
+  "keywords": [
+    "express",
+    "npm",
+    "node"
+  ],
+  "author": "Thq",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/thoriqnf/hello-express/issues"
+  },
+  "homepage": "https://github.com/thoriqnf/hello-express#readme"
+}
